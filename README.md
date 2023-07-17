@@ -18,7 +18,6 @@ Census data:https://data.cityofchicago.org/Health-Human-Services/Census-Data-Sel
 School data:https://data.cityofchicago.org/Education/Chicago-Public-Schools-Progress-Report-Cards-2011-/9xs2-f89t?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDB0201ENSkillsNetwork20127838-2021-01-01
 
 # Software or Tools used
-
 jupyter notebook- Utilized as development enviroment for executing python code
-Sqlite3- used for data storage,data manipulation and to perform SQL queries directly within the jupyter notebook environment
+-sqlite3- used for data storage,data manipulation and to perform SQL queries directly within the jupyter notebook environment
 
